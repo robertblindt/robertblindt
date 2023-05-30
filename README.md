@@ -62,7 +62,7 @@ I also have experience using:
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Artistic-Intent-Analysis-and-Visualization-Tool" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/robertblindt/Review-Crawler-and-Scraper.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Anime-Review-Crawler-and-Scraper" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Review-Crawler-and-Scraper" alt="GitHub Stats" />
     </a>
   </p>
 </div>
