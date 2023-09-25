@@ -42,7 +42,7 @@ I am a quick learner with a passion for improving and creating tools that improv
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/microsoftoffice-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 
-#### Python Libraries
+### Python Libraries
 **Data Processing:** \
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
