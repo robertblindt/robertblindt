@@ -19,9 +19,8 @@ I am a quick learner with a passion for improving and creating tools that improv
 
 ## 🛠️ Technical Skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)\
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=Spyderide&logoColor=white)\
