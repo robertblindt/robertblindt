@@ -71,6 +71,7 @@ I also have experience using:
 
 
 ## Check out my recent Projects:
+[![CommanderGrams](https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=CommanderGrams)](https://github.com/robertblindt/CommanderGrams)
 <div>
   <p>
     <a href="https://github.com/robertblindt/CommanderGrams.git">
