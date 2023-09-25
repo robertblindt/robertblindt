@@ -75,10 +75,10 @@ I also have experience using:
 <div>
   <p>
     <a href="https://github.com/robertblindt/CommanderGrams.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=CommanderGrams&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=CommanderGrams&theme=dark" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/robertblindt/Artistic-Intent-Analysis-and-Visualization-Tool.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Artistic-Intent-Analysis-and-Visualization-Tool" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Artistic-Intent-Analysis-and-Visualization-Tool&theme=dark" alt="GitHub Stats"/>
     </a>
   </p>
 </div>
