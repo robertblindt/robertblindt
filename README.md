@@ -63,14 +63,14 @@ I also have experience using:
 - DAWs (Audacity, Reaper, Bandlabs, Pro Tools, others).
 
 
-## Check out my GitHub Repositories:
+## Check out my recent Projects:
 <div>
   <p>
+    <a href="https://github.com/robertblindt/CommanderGrams.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=CommanderGrams" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/robertblindt/Artistic-Intent-Analysis-and-Visualization-Tool.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Artistic-Intent-Analysis-and-Visualization-Tool" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/robertblindt/Review-Crawler-and-Scraper.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Review-Crawler-and-Scraper" alt="GitHub Stats" />
     </a>
   </p>
 </div>
