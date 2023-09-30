@@ -9,8 +9,8 @@ I am a quick learner with a passion for improving and creating tools that improv
 
 ## ✨ About Me: 
 
-🔭 I’m currently working on **an application to automate data entry and database management for an online marketplace.** \
-🌱 I’m currently learning **Advanced Python & more about PostgreSQL**\
+🔭 I’m currently working on **an application to draw context out of collections of text to create suggested search terms.** \
+🌱 I’m currently learning **about NLP, NoSQL and Docker**\
 👯 I’m looking to collaborate on any **Open Source or Commercial Audio or DSP Tools Projects**\
 🤔 I’m looking for help for learning **Project Management Skills and DSP through Python**\
 💬 Ask me about **Data Cleaning and Visualization** \
