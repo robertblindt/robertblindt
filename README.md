@@ -3,9 +3,9 @@
 
 <hr>
 
-I'm an **Engineering Professional** with expertise in developing hardware and software prototypes, processes, and validation tests.  I have worked with engineering and management teams over the whole product development life cycle to ensure project deliverables, quality and performance standards were met.
+I'm an **Engineering Professional** with expertise in developing hardware and software prototypes, processes, and validation tests.  I've collaborated with engineering and management teams throughout the entire product development life cycle to ensure the fulfillment of project deliverables, as well as attain quality and performance standards.
 <br><br>
-I am a quick learner with a passion for improving and creating tools that improve efficiency and help companies achieve their business goals.<br>
+I'm highly adaptable and driven by a passion for enhancing and crafting tools that boost efficiency, ultimately assisting companies in reaching their business objectives.<br>
 
 ## ✨ About Me: 
 
