@@ -10,7 +10,7 @@ I'm highly adaptable and driven by a passion for enhancing and crafting tools th
 ## ✨ About Me: 
 
 🔭 I’m currently working on **an application to draw context out of collections of text to create suggested search terms.** \
-🌱 I’m currently learning **about NLP, NoSQL and Docker**\
+🌱 I’m currently learning **about NLP, NoSQL, and Docker**\
 👯 I’m looking to collaborate on any **Open Source or Commercial Audio or DSP Tools Projects**\
 🤔 I’m looking for help for learning **Project Management Skills and DSP through Python**\
 💬 Ask me about **Data Cleaning and Visualization** \
