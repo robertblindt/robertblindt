@@ -69,7 +69,7 @@ I also have experience using:
 - Matlab & Simulink 
 - CAD (NX1899, Fusion360) 
 - Circuit Design Tools (Cadence Softwares)
-- DAWs (Audacity, Reaper, Bandlabs, Pro Tools, others).
+- DAWs (Audacity, Reaper, Bandlabs, Pro Tools, others)
 
 
 ## Check out my recent Projects:
