@@ -75,8 +75,8 @@ I also have experience using:
 ## Check out my recent Projects:
 <div>
   <p>
-    <a href="https://github.com/robertblindt/CommanderGrams.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=CommanderGrams&theme=dark" alt="GitHub Stats"/>
+    <a href="https://github.com/robertblindt/CommanderGrams-Directory.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=CommanderGrams-Directory&theme=dark" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/robertblindt/Artistic-Intent-Analysis-and-Visualization-Tool.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=robertblindt&repo=Artistic-Intent-Analysis-and-Visualization-Tool&theme=dark" alt="GitHub Stats"/>
